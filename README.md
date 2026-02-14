@@ -347,7 +347,7 @@ Optionally, you can add a similar example (i.e. without the mcp key) to a file c
 
 </details>
 
-### Install in Other MCP Hosts
+### Install in Other MCPHsosts
 
 For other MCP host applications, please refer to our installation guides:
 
